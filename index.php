@@ -10,7 +10,8 @@
 </head>
 <body><?php
 include __DIR__ . '/includes/header.php' ?>
-<main>
+<main><?php
+include __DIR__ . '/includes/card.php' ?>
 
 </main> 
 </body>
