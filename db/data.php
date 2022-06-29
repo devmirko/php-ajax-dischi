@@ -2,7 +2,7 @@
 
 $Album = [
     [
-    'poster' => 'https://www.onstageweb.com/wp-content/uploads/2018/09/      bon-jovi-new-jersey.jpg',
+    'poster' => 'https://i.discogs.com/Gy_nQpH_DsQ6XhXPYRwm8-CyC2XGEwiU49vZNtMbII0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk0/MDYtMTQxODY1NDg5/Ni04MjgwLmpwZWc.jpeg',
     'author' =>	"Bon Jovi",
     'title' =>	"New Jersey",
     'genre' =>	"Rock",
@@ -24,13 +24,13 @@ $Album = [
     'year'  =>	"1993"
     ],
     [
-    'poster' => 'https://cdn2.jazztimes.com/2018/05/SteveGadd-800x723.jpg',
+    'poster' => 'https://i.discogs.com/0pAEkEY-k680UXMbYPBubdWckRAlcWlpmr_P2E1-ICU/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgw/MDQwLTE2NDI4MzY0/MTUtNTcxMC5qcGVn.jpeg',
     'author' =>	"Steve Gadd Band",
     'title' =>	"Steve Gadd Band",
     'genre' =>	"Jazz",
     'year'  =>	"2018"
-    ],
-]
+    ]
+    ];
 
 
 
@@ -49,4 +49,3 @@ $Album = [
 
 
 
-?>
